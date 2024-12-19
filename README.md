@@ -1,4 +1,4 @@
-# Hi 👋, I'm Bazil Jani
+# Hi 👋, I'm 😎 Bazil Jani
 A passionate frontend developer from India  
 
 - 🌱 I’m currently learning **Reactjs**  
@@ -8,6 +8,7 @@ A passionate frontend developer from India
 
 ### My Portfolio or My CV:
 - https://baziljani.github.io/Personal-_Portfolio/
+
 
   
 ### Languages and Tools:
