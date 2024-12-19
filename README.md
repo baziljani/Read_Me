@@ -1,17 +1,14 @@
-# Hi 👋, I'm 😎 Bazil Jani
+# Hi 👋, I'm 😎 Bazil Jani  
 A passionate frontend developer from India  
 
 - 🌱 I’m currently learning **Reactjs**  
 - 👯 I’m looking to collaborate on **Vue**  
-- 📫 How to reach me **iambazil1995@gmail.com** 
-- ✔ My Projects are available in **https://vercel.com/baziljanis-projects** 
+- 📫 How to reach me: **iambazil1995@gmail.com**  
+- ✅ My Projects are available at [https://vercel.com/baziljanis-projects](https://vercel.com/baziljanis-projects)
 
-### My Portfolio or My CV:
-- https://baziljani.github.io/Personal-_Portfolio/
+### My Portfolio or My CV:  
+- [Personal Portfolio](https://baziljani.github.io/Personal-_Portfolio/)
 
-
-
-  
 ### Languages and Tools:
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -30,4 +27,3 @@ A passionate frontend developer from India
   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 </p>
-
