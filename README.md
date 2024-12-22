@@ -8,8 +8,7 @@ A passionate frontend developer from India
 
 ### My Portfolio or My CV:  
 - [Personal Portfolio](https://baziljani.github.io/Personal-_Portfolio/)
-- 
-
+  
 ### Languages and Tools:
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
